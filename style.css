@@ -1,0 +1,38 @@
+h1 {
+    color:oldlace;
+    font-family: sans-serif;
+
+}
+.header{
+    background-color:lightcoral;
+    display:flex;
+    justify-content:space-evenly;
+    font-family: sans-serif;
+}
+.grid{
+    background-color: lightgreen;
+    display:flex;
+    flex-wrap: wrap;
+
+    justify-content:space-evenly;
+    font-family: sans-serif;
+}
+h2{
+    text-align:center;
+    color:#123545;
+    background-color:lime;
+    font-family: sans-serif;
+    
+    
+}
+h3{
+    color: seagreen;
+    font-family:sans-serif;
+}
+body{
+    background-color: #141414;
+    background-image: url("Hogwarts.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
