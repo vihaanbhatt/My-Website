@@ -1,6 +1,7 @@
 h1 {
     color:oldlace;
     font-family: sans-serif;
+    
 
 }
 .header{
@@ -8,7 +9,11 @@ h1 {
     display:flex;
     justify-content:space-evenly;
     font-family: sans-serif;
+    
+    
 }
+
+
 .grid{
     background-color: lightgreen;
     display:flex;
@@ -22,6 +27,7 @@ h2{
     color:#123545;
     background-color:lime;
     font-family: sans-serif;
+
     
     
 }
@@ -30,9 +36,19 @@ h3{
     font-family:sans-serif;
 }
 body{
-    background-color: #141414;
-    background-image: url("Hogwarts.jpg");
+    background-color: #fffafa;
     background-repeat: no-repeat;
     background-size: cover;
 }
+a:link{color: aqua;}
+a:visited{color: brown;}
+.deeva{position: relative;}
+.deeva h3{position:absolute;top:25%;left: 35%;opacity:0;}
+.deeva:hover h3{opacity:1}
+.deeva:hover img{opacity:0.1}
+
+.deeva h4{position:absolute;top:25%; left:35%;opacity:0;}
+.deeva:hover h4{opacity:1}
+.deeva:hover img{opacity:0.1}
+
 
